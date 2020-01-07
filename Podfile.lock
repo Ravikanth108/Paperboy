@@ -1,0 +1,26 @@
+PODS:
+  - Device (3.2.1)
+  - SDWebImage (5.3.2):
+    - SDWebImage/Core (= 5.3.2)
+  - SDWebImage/Core (5.3.2)
+  - XLPagerTabStrip (8.1.1)
+
+DEPENDENCIES:
+  - Device (~> 3.2.1)
+  - SDWebImage (~> 5.0)
+  - XLPagerTabStrip (~> 8.0)
+
+SPEC REPOS:
+  trunk:
+    - Device
+    - SDWebImage
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Device: 0738862dd8a30856b4bd9e21cb9b728873d21392
+  SDWebImage: 6ac2eb96571bff96ecde31a987172c5934a0eb7d
+  XLPagerTabStrip: 63166e21c9844fa30f2d95d30f335e73be5caf22
+
+PODFILE CHECKSUM: 79f0ec58ba4671ccc932b5a42a21732177ff4fac
+
+COCOAPODS: 1.8.4
